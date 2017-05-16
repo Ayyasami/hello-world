@@ -1,8 +1,6 @@
 package com.adventnet.zoho.crmplus.apps.action;
-
 import java.util.logging.Level;
 import java.util.logging.Logger;
-
 import com.adventnet.iam.IAMUtil;
 import com.adventnet.iam.User;
 import com.adventnet.mfw.bean.BeanUtil;
